@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\Learn-C#\\ConsoleApp\\ConsoleApp.csproj": {}
+    "C:\\Users\\Hp\\Desktop\\Learn-C-\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\Learn-C#\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\Users\\Hp\\Desktop\\Learn-C-\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\Learn-C#\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\Learn-C-\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\Users\\Hp\\Learn-C#\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\Learn-C-\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\Learn-C#\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\Learn-C-\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
